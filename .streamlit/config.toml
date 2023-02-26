@@ -24,3 +24,6 @@ base = "dark"
 font = "sans serif"
 
 # user_input=st.text_input("You:",key='input') Change color
+
+[server]
+enableXsrfProtection = false
